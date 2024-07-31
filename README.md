@@ -51,7 +51,7 @@ __Skills:__ Statistics (Binomial distribution, CLT), analytical thinking
 
 __Tech:__ Google sheets
 
-__Results:__[Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)
+__Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
 
 ## Project 3
@@ -63,7 +63,7 @@ __Skills:__ Data cleaning, data analysis, data visualisation
 
 __Tech:__ Python, Pandas, Matplotlib
 
-__Code:__ [Example notebook_check deals source.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)
+__Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
 
 __Results: [image with clickable links in a standalone .pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
