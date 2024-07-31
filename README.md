@@ -2,27 +2,77 @@
 Showcasing some examples of my work in sales and revenue operations
 
 
-Hi I'm Andrew I have a background in natural sciences and physics. I  was always passionate about finding insights and uncovering the hidden gems. The natural sciences always worked the same way, a hypothesis need to be tested and validated in an experiment. The experiment would provided data that need to be carefully analysed to get at the meaningful conclusions. So I got to understand things like random variables, distributions and 2SD before the Internet grew big and data analytics went mainstream.
+Hi I'm Andrew I have a background in natural sciences and physics. I  have been always passionate about finding insights and uncovering the hidden gems. The natural sciences worked the same way, a hypothesis need to be tested and validated in an experiment. The experiment would provided data that need to be carefully analysed to get at the conclusions. So I got to understand things like random variables, distributions and 2SD before the Internet grew big and data analytics went mainstream.
 
-My business background taught me that any data should make case for business. Rigorous analytics and dramatic dashboards are no good unless they carry actionable insights that can provide for a business impact.
+My background taught me that in business world any data work should make case for the business decisions. Rigorous analytics and dramatic dashboards are no use unless they carry actionable insights that can provide for a business impact.
 
-In revenue operations your process should follow a well-defined methodology so that it can provide meaningful data-points to populate the data model. Then it takes a matching tool, the CRM, to capture them. Unlike the Titanic dataset the real life data would have errors and inconsistencies, and must be laboriously cleaned and transformed before it is good enough for analysis.
+If your revenue process follows a defined methodology it can provide the meaningful data-points. Then it takes a matching tool, namely the CRM, to capture them. Unlike the Titanic dataset the real life data samples would have errors and inconsistencies, and must be laboriously cleaned and transformed before it is good for the analysis.
 
-Here are few examples of my data work as the RevOps.
+Here are few examples of my practical data work in the revenue operations. 
 
-##Project 1
+## Project 1
 
 ### Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
-Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue or sales flow. Data is clean and the basics tool would do the job right and fast.
+Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue or sales flow. Data is clean and the basics tools would do the job fast.
 
-Goal: Assess the reps performance on the 'harder' deals that can not get won fast; get insights and support decision making  
+__Goal:__ Assess the reps performance on the deals that take longer to close; get insights and support the decision making  
 
-Skills: HubSpot, pivot tables, data visualisation  
+__Skills:__ Sales KPIs, descriptive statistics, pivot tables, data visualisation, analytical thinking
 
-Tech: Google sheets
+__Tech:__ Hubspot, Google sheets
 
-Results: [here is a brief report in pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)
+__Results: [here is the report in pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)__
 
 
- 
+## Project 2
+### Data quality check
+
+Suppose you have to combine manual data entry with a sort of custom data structure that is not fully supported by default in your database. Entry errors become likely. Validations and automated checks are hardly an option at this stage. Once in a while you'd need a reality check to see true extent of errors in the database. Full manual check of the thousands of records is too expensive.
+     
+__Goal:__ Provide reliable estimate for the extent of data errors in the customer account database with the limited resources
+
+__Steps:__
+- figure out sample size given the CLT limitations for binomial
+- set up the observations
+- get the random sample
+- check the sample manually collecting observations
+- calculate sample means and confidence intervals
+
+__Skills:__ Statistics (Binomial distribution, CLT), analytical thinking
+
+__Tech:__ Google sheets
+
+__Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?usp=sharing)__
+
+
+## Project 3
+### CRM data quality visualisation
+
+
+
+
+## Project 4
+### Explore deal pipeline data & key correlations
+
+__Goal:__ Estimate the extent of errors in the CRM company database 
+
+__Skills:__ Statistics (correlation coefficient)
+
+__Tech:__ Python, Pandas, Matplotlib
+
+__Results:__ 
+
+
+## Project 5
+### RevOps is also about BA or Business analysis
+
+
+
+__Goal:__ Provide a visual representation of a business process for the various use cases (analysis, new rep onboarding etc) 
+
+__Skills:__ Business analysis, BPMN
+
+__Tech:__ 
+
+__Results:__:
