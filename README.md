@@ -2,13 +2,21 @@
 Showcasing some examples of my work in sales and revenue operations
 
 
-Hi I'm Andrew I have a background in natural sciences and physics. I  have been always passionate about finding insights and uncovering the hidden gems. The natural sciences worked the same way, a hypothesis need to be tested and validated in an experiment. The experiment would provided data that need to be carefully analysed to get at the conclusions. So I got to understand things like random variables, distributions and 2SD before the Internet grew big and data analytics went mainstream.
+Hi I'm Andrew👋
+ 
+I have a background in natural sciences and physics. I  have been always passionate about finding insights and uncovering the hidden knowledge gems in data. The natural sciences worked the same way, a theory need to be tested and validated in an experiment. The experiment would provided data that need to be carefully analysed to get at the conclusions. So I got to understand things like random variables, distributions and 2SD before the Internet grew big and data analytics went mainstream.
 
 My background taught me that in business world any data work should make case for the business decisions. Rigorous analytics and dramatic dashboards are no use unless they carry actionable insights that can provide for a business impact.
 
-If your revenue process follows a defined methodology it can provide the meaningful data-points. Then it takes a matching tool, namely the CRM, to capture them. Unlike the Titanic dataset the real life data samples would have errors and inconsistencies, and must be laboriously cleaned and transformed before it is good for the analysis.
+If your revenue process follows a defined methodology it can provide the meaningful data-points. Then it takes a matching tool, the CRM, to capture them. Unlike the Titanic dataset the real life data samples would have errors and inconsistencies, and must be laboriously cleaned and transformed before it is good for the analysis.
 
-Here are few examples of my practical data work in the revenue operations. 
+Here are few examples of my practical work in the revenue operations👇🏼
+
+### Sections:
+Business analysis, business process engineering
+Business and revenue modelling
+Operational reporting & BI
+Data analysis and hygiene 
 
 ## Project 1
 
@@ -43,17 +51,25 @@ __Skills:__ Statistics (Binomial distribution, CLT), analytical thinking
 
 __Tech:__ Google sheets
 
-__Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?usp=sharing)__
+__Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
 
 ## Project 3
-### CRM data quality visualisation
+### Critical datapoint error visualisation for CRM deals
 
+__Goal:__ Visualise error in the deal datapoint that is critial for correct deal stat; make it easy for manual check-up and correction  
 
+__Skills:__ Data cleaning, data analysis, data visualisation
+
+__Tech:__ Python, Pandas, Matplotlib
+
+__Code:__ [Example notebook_check deals source.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)
+
+__Results: [image with clickable links in a standalone .pdf file](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)
 
 
 ## Project 4
-### Explore deal pipeline data & key correlations
+### Explore deal pipeline data and key correlations
 
 __Goal:__ Estimate the extent of errors in the CRM company database 
 
@@ -65,8 +81,7 @@ __Results:__
 
 
 ## Project 5
-### RevOps is also about BA or Business analysis
-
+### RevOps is also about Business Analysis
 
 
 __Goal:__ Provide a visual representation of a business process for the various use cases (analysis, new rep onboarding etc) 
