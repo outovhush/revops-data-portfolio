@@ -1,24 +1,34 @@
 # revops-data-portfolio
 Showcasing some examples of my work in sales and revenue operations
 
+Hey there! I'm Andrew 👋
 
-Hi I'm Andrew👋
- 
-I have a background in natural sciences and physics. I  have been always passionate about finding insights and uncovering the hidden knowledge gems in data. The natural sciences worked the same way, a theory need to be tested and validated in an experiment. The experiment would provided data that need to be carefully analysed to get at the conclusions. So I got to understand things like random variables, distributions and 2SD before the Internet grew big and data analytics went mainstream.
+Ever heard of Revenue Operations (RevOps)? It's the rather new word in business, and it's shaking things up a bit. Imagine a superhero team where sales, marketing, and customer service all work together aligned perfectly to make more money. And the infrastructure and automation ensures that work is done in most effective ways. That's the RevOps product! More and more SMB companies are catching on, realising it's not just a fad but a real thing. Curious about why it's such a big deal?
 
-My background taught me that in business world any data work should make case for the business decisions. Rigorous analytics and dramatic dashboards are no use unless they carry actionable insights that can provide for a business impact.
+So, why am I the right person for RevOps? Well, I've done a bit of everything. I can see the big picture but also know how to get things aligned day-to-day. It's like being able to plan an awesome party and also know how to set up the decorations. I'm good at talking to different teams, understanding what they need, and finding ways to balance their needs and hit the revenue goals.
 
-If your revenue process follows a defined methodology it can provide the meaningful data-points. Then it takes a matching tool, the CRM, to capture them. Unlike the Titanic dataset the real life data samples would have errors and inconsistencies, and must be laboriously cleaned and transformed before it is good for the analysis.
+Now, let's talk about data. It's super important in on the operations side of things, but here's the thing – real-world data is messy. It's not like the neat stuff you see in titanic dataset. My job is to clean it up, make sense of it, and turn it into useful information. With the right tools, like a good CRM system, we can track everything important, get insights and make better business decisions.
 
-Here are few examples of my practical work in the revenue operations👇🏼
+Want to see how I've put all this into action? Check out some examples of my work below 👇🏼
 
 ### Sections:
-Business analysis, business process engineering
-Business and revenue modelling
+[Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)
+Business and Revenue Modelling
 Operational reporting & BI
 Data analysis and hygiene 
 
-## Project 1
+## Business Analysis and BP Engineering
+### BPMN examples for process analysis and reference
+
+__Goal:__ Provide a visual representation of the business process for the various use cases (business analysis, onboarding new reps) 
+
+__Skills:__ Business analysis, BPMN
+
+__Tech:__ 
+
+__Results:__:
+
+## Operational reporting & BI
 
 ### Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
@@ -33,7 +43,7 @@ __Tech:__ Hubspot, Google sheets
 __Results: [here is the report in pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)__
 
 
-## Project 2
+## Data analysis and hygiene
 ### Data quality check
 
 Suppose you have to combine manual data entry with a sort of custom data structure that is not fully supported by default in your database. Entry errors become likely. Validations and automated checks are hardly an option at this stage. Once in a while you'd need a reality check to see true extent of errors in the database. Full manual check of the thousands of records is too expensive.
@@ -54,10 +64,9 @@ __Tech:__ Google sheets
 __Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
 
-## Project 3
 ### Critical datapoint error visualisation for CRM deals
 
-__Goal:__ Visualise error in the deal datapoint that is critial for correct deal stat; make it easy for manual check-up and correction  
+__Goal:__ Visualise error in the deal datapoint that is critical for correct deal stat; make it easy for manual check-up and correction  
 
 __Skills:__ Data cleaning, data analysis, data visualisation
 
@@ -68,7 +77,6 @@ __Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush
 __Results: [image with clickable links in a standalone .pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
 
-## Project 4
 ### Explore deal pipeline data and key correlations
 
 __Goal:__ Estimate the extent of errors in the CRM company database 
@@ -80,14 +88,4 @@ __Tech:__ Python, Pandas, Matplotlib
 __Results:__ 
 
 
-## Project 5
-### RevOps is also about Business Analysis
 
-
-__Goal:__ Provide a visual representation of a business process for the various use cases (analysis, new rep onboarding etc) 
-
-__Skills:__ Business analysis, BPMN
-
-__Tech:__ 
-
-__Results:__:
