@@ -12,10 +12,10 @@ Now, let's talk about data. It's super important in on the operations side of th
 Want to see how I've put all this into action? Check out some examples of my work below 👇🏼
 
 ### Sections:
-[Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)
-Business and Revenue Modelling
-Operational reporting & BI
-Data analysis and hygiene 
+####[Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
+####[Business and Revenue Modelling](#business-and-revenue-modelling)  
+####[Operational reporting and BI](#operational-reporting-and-bi)  
+####[Data analysis and data hygiene](data-analysis-and-data-hygiene)
 
 ## Business Analysis and BP Engineering
 ### BPMN examples for process analysis and reference
@@ -28,7 +28,12 @@ __Tech:__
 
 __Results:__:
 
-## Operational reporting & BI
+
+
+## Business and Revenue Modelling
+### Down-top one page revenue models to sanity check and forecast
+
+## Operational reporting and BI
 
 ### Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
@@ -43,7 +48,7 @@ __Tech:__ Hubspot, Google sheets
 __Results: [here is the report in pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)__
 
 
-## Data analysis and hygiene
+## Data analysis and data hygiene
 ### Data quality check
 
 Suppose you have to combine manual data entry with a sort of custom data structure that is not fully supported by default in your database. Entry errors become likely. Validations and automated checks are hardly an option at this stage. Once in a while you'd need a reality check to see true extent of errors in the database. Full manual check of the thousands of records is too expensive.
