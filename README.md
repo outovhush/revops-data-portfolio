@@ -24,7 +24,7 @@ __Goal:__ Provide a easy-to-read visual representation of the AS process for ana
 
 __Skills:__ Business analysis, BPMN 2.0
 
-__Results: [The BPMN top-level diagram for AS process]()__
+__Results: [The BPMN top-level diagram for AS process](https://miro.com/app/board/uXjVNiNbKiI=/)__
 
 #### Planning and designing the updated revenue process
 
@@ -32,7 +32,7 @@ __Goal:__ Plan, prepare and document a major update of the revenue process
 
 __Skills:__ Business analysis, process engineering, change and project management, requirement solicitaion, revenue and sales KPI
 
-__Results: [Excerpt from the design doc]()__
+__Results: [Global design document contents with few charts (detail redacted)](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__
 
 ## Business and Revenue Modelling
 #### Down-top one page revenue model for forecasting
@@ -60,7 +60,7 @@ __Results: [the report in pdf](https://github.com/outovhush/revops-data-portfoli
 
 
 ## Data analysis and data hygiene
-### Data quality fast check
+#### Data quality fast check
 
 Suppose you have to combine manual data entry with a sort of custom data structure that is not fully supported by default in your database. Entry errors become likely. Validations and automated checks are hardly an option at this stage. Once in a while you'd need a reality check to see true extent of errors in the database. Full manual check of the thousands of records is too expensive.
      
@@ -73,12 +73,12 @@ __Steps:__
 - check the sample manually collecting observations
 - calculate sample means and confidence intervals
 
-__Skills:__ Statistics (Binomial distribution, CLT), analytical thinking
+__Skills:__ Statistics (Binomial distribution, CLT), analytical thinking, Google sheets
 
 __Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
 
-### Critical data error visualisation for CRM dataset
+#### Critical data error visualisation for CRM dataset
 
 __Goal:__ Visualise error in the deal datapoint that is critical for correct deal stat; make it easy for further manual checks and corrections  
 
@@ -91,7 +91,7 @@ __Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush
 __Results: [image with clickable links in a standalone .pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
 
-### Explore deal pipeline data and key correlations
+#### Explore deal pipeline data and key correlations
 
 __Goal:__ Estimate the extent of errors in the CRM company database 
 
