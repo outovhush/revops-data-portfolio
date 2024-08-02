@@ -12,10 +12,10 @@ Now, let's talk about data. It's super important in on the operations side of th
 Want to see how I've put all this into action? Check out some examples of my work below 👇🏼
 
 ### Sections:
-#### [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
-#### [Business and Revenue Modelling](#business-and-revenue-modelling)  
-#### [Operational reporting and BI](#operational-reporting-and-bi)  
-#### [Data analysis and data hygiene](data-analysis-and-data-hygiene)
+#### [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering-1)
+#### [Business and Revenue Modelling](#business-and-revenue-modelling-1)
+#### [Operational reporting and BI](#operational-reporting-and-bi-1)
+#### [Data analysis and data hygiene](data-analysis-and-data-hygiene-1)
 
 ## Business Analysis and BP Engineering
 ### BPMN example use for Appointment Settings process visualisation
