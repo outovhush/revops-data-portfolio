@@ -7,37 +7,41 @@ Ever heard of Revenue Operations (RevOps)? It's the rather new word in business,
 
 So, why am I the right person for RevOps? Well, I've done a bit of everything. I can see the big picture but also know how to get things aligned day-to-day. It's like being able to plan an awesome party and also know how to set up the decorations. I'm good at talking to different teams, understanding what they need, and finding ways to balance their needs and hit the revenue goals.
 
-Now, let's talk about data. It's super important in on the operations side of things, but here's the thing – real-world data is messy. It's not like the neat stuff you see in titanic dataset. My job is to clean it up, make sense of it, and turn it into useful information. With the right tools, like a good CRM system, we can track everything important, get insights and make better business decisions.
+Now, let's talk about data. It's super important in on the operations side of things, but here's the thing – real world data is messy unlike what you see in the Titanic dataset. My job is to clean it up, make sense of it, and turn it into useful information. With the right tools, like a good CRM system, we can track everything important, get insights and make better business decisions.
 
 Want to see how I've put all this into action? Check out some examples of my work below 👇🏼
 
 ### Sections:
-####[Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
-####[Business and Revenue Modelling](#business-and-revenue-modelling)  
-####[Operational reporting and BI](#operational-reporting-and-bi)  
-####[Data analysis and data hygiene](data-analysis-and-data-hygiene)
+#### [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
+#### [Business and Revenue Modelling](#business-and-revenue-modelling)  
+#### [Operational reporting and BI](#operational-reporting-and-bi)  
+#### [Data analysis and data hygiene](data-analysis-and-data-hygiene)
 
 ## Business Analysis and BP Engineering
-### BPMN examples for process analysis and reference
+### BPMN example use for Appointment Settings process visualisation
 
-__Goal:__ Provide a visual representation of the business process for the various use cases (business analysis, onboarding new reps) 
+__Goal:__ Provide a easy-to-read visual representation of the AS process for analysis, documenting and future referencing
 
-__Skills:__ Business analysis, BPMN
+__Skills:__ Business analysis, BPMN 2.0
 
-__Tech:__ 
-
-__Results:__:
-
+__Results: [The BPMN top-level diagram for AS process]()__
 
 
 ## Business and Revenue Modelling
 ### Down-top one page revenue models to sanity check and forecast
 
+__Goal:__ Give the qualitative reality-check and estimate gross annual revenue given the lead channels composition and the conversion rates; identify key bottle necks and revenue sensitivities
+
+__Skills:__ Business analysis, modelling, revenue and sales metrics
+
+__Results: [the revenue model]()__
+   
+
 ## Operational reporting and BI
 
 ### Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
-Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue or sales flow. Data is clean and the basics tools would do the job fast.
+Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue flow. Data is clean and the basics tools would do the job fast.
 
 __Goal:__ Assess the reps performance on the deals that take longer to close; get insights and support the decision making  
 
@@ -49,7 +53,7 @@ __Results: [here is the report in pdf](https://github.com/outovhush/revops-data-
 
 
 ## Data analysis and data hygiene
-### Data quality check
+### Data quality fast check
 
 Suppose you have to combine manual data entry with a sort of custom data structure that is not fully supported by default in your database. Entry errors become likely. Validations and automated checks are hardly an option at this stage. Once in a while you'd need a reality check to see true extent of errors in the database. Full manual check of the thousands of records is too expensive.
      
@@ -63,8 +67,6 @@ __Steps:__
 - calculate sample means and confidence intervals
 
 __Skills:__ Statistics (Binomial distribution, CLT), analytical thinking
-
-__Tech:__ Google sheets
 
 __Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
