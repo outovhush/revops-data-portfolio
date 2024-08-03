@@ -34,11 +34,11 @@ __Goal:__ Plan, prepare and document a major update of the revenue process
 
 __Skills:__ Business analysis, process engineering, change and project management, requirement solicitation, revenue and sales KPI
 
-__Results: [Global design document contents with few charts (detail redacted)](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__
+__Results: [Global design document with example charts (detail redacted)](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__
 
 ## Business and Revenue Modelling
 
-#### 👉 Simple revenue model for the forecasting and sanity-check
+#### 👉 One-pager revenue model for the sanity-check and forecasting
 
 __Goal:__ Give the qualitative reality-check and project annual revenue given the lead channels composition, expected number of leads and the key conversion rates; identify the bottle necks and revenue sensitivities
 
@@ -91,10 +91,10 @@ __Tech:__ Python, Pandas, Matplotlib
 
 __Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
 
-__Results: [image with clickable links in a standalone .pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
+__Results: [image with clickable links in a standalone pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
 
-#### 👉 Exploring deal pipeline data and checking some correlations
+#### 👉 Exploring deal pipeline data and checking some interesting correlations
 
 __Goal:__  
 
