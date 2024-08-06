@@ -102,7 +102,7 @@ __Skills:__ Data cleaning, data exploration, Pearson correlation, data visualisa
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
-__Code:__ [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)
+__Code: [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
 
 __Results:__ 
 
