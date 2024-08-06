@@ -98,7 +98,7 @@ __Results: [image with clickable links in a standalone pdf](https://github.com/o
 
 __Goal:__  Explore raw CRM annual deal dataset, check key metrics and identify inconsistencies and data errors
 
-__Skills:__ Data cleaning, Data exploration, Pearson correlation, data visualisation
+__Skills:__ Data cleaning, data exploration, Pearson correlation, data visualisation
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
