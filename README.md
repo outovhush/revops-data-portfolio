@@ -94,15 +94,15 @@ __Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush
 __Results: [image with clickable links in a standalone pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
 
-#### 👉 Exploring deal pipeline data and checking some interesting correlations
+#### 👉 Deal dataset exploration
 
-__Goal:__  
+__Goal:__  Explore raw CRM annual deal dataset, check key metrics and identify inconsistencies and data errors
 
-__Skills:__ Statistics (correlation coefficients)
+__Skills:__ Data cleaning, Data exploration, Pearson correlation, data visualisation
 
-__Tech:__ Python, Pandas, Matplotlib
+__Tech:__ Python, Pandas, Matplotlib, Seaborn
 
-__Code:__
+__Code:__ [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)
 
 __Results:__ 
 
