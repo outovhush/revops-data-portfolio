@@ -91,7 +91,7 @@ __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
 __Code: [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
 
-__Results:__ Few essential business metrics were visualised; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the raw dataset data were identified    
+__Results:__ Few essential business metrics were visualised; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the data were identified    
 
 #### 👉 Critical data errors visualisation in CRM data
 
