@@ -81,6 +81,18 @@ __Skills:__ Statistics (Binomial distribution, CLT), analytical thinking, Google
 
 __Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
+#### 👉 CRM deal dataset exploration
+
+__Goal:__  Explore raw CRM annual deal dataset, check some business metrics, identify inconsistencies and errors in the data
+
+__Skills:__ Data cleaning, data exploration, Pearson correlation, data visualisation
+
+__Tech:__ Python, Pandas, Matplotlib, Seaborn
+
+__Code: [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
+
+__Results:__ Few essential business metrics were visualised; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the raw dataset data were identified    
+
 #### 👉 Critical data errors visualisation in CRM data
 
 __Goal:__ Visualise error in the deal datapoint that is critical for correct deal stat; make it easy for further manual checks and corrections  
@@ -92,19 +104,6 @@ __Tech:__ Python, Pandas, Matplotlib
 __Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
 
 __Results: [image with clickable links in a standalone pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
-
-
-#### 👉 Deal dataset exploration
-
-__Goal:__  Explore raw CRM annual deal dataset, check key metrics and identify inconsistencies and data errors
-
-__Skills:__ Data cleaning, data exploration, Pearson correlation, data visualisation
-
-__Tech:__ Python, Pandas, Matplotlib, Seaborn
-
-__Code: [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
-
-__Results:__ 
 
 
 
