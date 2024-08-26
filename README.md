@@ -1,5 +1,5 @@
 # revops-data-portfolio
-Showcasing some examples of my work in sales and revenue operations
+Showcasing few examples of my work in sales and revenue operations
 
 Hey there! I'm Andrew 👋
 
